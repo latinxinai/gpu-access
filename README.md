@@ -1,6 +1,6 @@
-# LXAI Gpu-access
+# LXAI GPU-Access
 
-## Intruduction
+## Introduction
 [LXAI supercomputing program](https://www.latinxinai.org/supercomputer-cfp) is looking to strengthen the capacities of the LatinX artificial intelligence ecosystem including researchers, academics, students, nascent startups, and NGO and civil societies interested in harnessing the potential of data science and AI for social or ambiental endeavors through access to infrastructure.
 
 ## Infraestructure
