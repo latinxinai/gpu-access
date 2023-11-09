@@ -5,3 +5,11 @@
 
 ## Infrastructure
 [NVIDIA DGX A100 640](https://resources.nvidia.com/en-us-dgx-systems/dgx-ai)  is a universal system for all AI workloads—from analytics to training to inference. 
+
+| Component         | Value |
+| :---------------- | :------: |
+| GPU               | QTY 8  Nvidia A100 |
+| Total GPU memory  | 640 GB   |
+| CPU | 2 AMD Rome, 128 cores (256 threads)|
+| RAM | 2 TB |
+| Disc | 30TB |
