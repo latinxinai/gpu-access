@@ -6,7 +6,7 @@
 #SBATCH -e /home/[USER]/logs/%j[ERROR_FILENAME].err
 #SBATCH --gres=gpu:[NUM_GPUS]
 #SBATCH --nodelist=dgxa100jal
-#SBATCH --partition=[PARTITION_NAME]
+#SBATCH --partition=dgx_small
 
 pwd; hostname; date
 
