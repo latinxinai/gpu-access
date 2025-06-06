@@ -17,3 +17,8 @@
 | CPU | 2 AMD Rome, 128 cores (256 threads)|
 | RAM | 2 TB |
 | Disc | 30TB |
+
+## Our Publications 
+- [WACV2025](https://openaccess.thecvf.com/content/WACV2025/papers/Llerena_Noise-Aware_Evaluation_of_Object_Detectors_WACV_2025_paper.pdf)
+- [CVPR2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Marques_GauCho_Gaussian_Distributions_with_Cholesky_Decomposition_for_Oriented_Object_Detection_CVPR_2025_paper.pdf)
+
