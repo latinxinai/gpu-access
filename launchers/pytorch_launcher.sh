@@ -10,9 +10,13 @@
 
 pwd; hostname; date
 
+
+source /shared/apps/Python/Tensorflow/3.11.6/etc/profile.d/conda.sh
 module use --append /shared/modulefiles/
 source /etc/profile.d/modules.sh
-module load Python/3.11.6
+module load Python/Tensorflow/3.11.6
+conda activate torch
+
 
 [YOUR_SCRIPTS_HERE]
 #e.g:
